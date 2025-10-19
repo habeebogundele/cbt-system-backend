@@ -241,3 +241,5 @@ Desktop.ini
 
 # Linux
 *~
+
+.env.example

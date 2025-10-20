@@ -221,7 +221,6 @@ router.post('/bulk', [
   }
 });
 
-
 // Update question
 router.put('/:questionId', [
   param('questionId').isMongoId(),
